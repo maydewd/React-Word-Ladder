@@ -1,0 +1,28 @@
+#WordLadderGame {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#ladder {
+    text-align: left;
+}
+
+#topBar>* {
+    display: inline;
+    padding: 5px;
+}
+
+#time {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#won {
+    color: green;
+    font-size: 16px;
+}
+
+#lost {
+    color: red;
+    font-size: 16px;
+}
